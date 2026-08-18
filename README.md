@@ -41,4 +41,8 @@ The test event should contain sample integer values
 
 Run the test event and view output
 
+# Clean Up
+
+To clean up delete the lambda function, log group, and execution role
+
 
