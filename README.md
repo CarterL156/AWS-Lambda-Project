@@ -12,10 +12,10 @@ For this workshop, the example function multiples two integers and returns the p
 
 Open functions page in Lambda console and create a new function.
 
-export const handler = async (event, context) => {
+
 
 ```
-  
+  export const handler = async (event, context) => {
   const length = event.length;
   const width = event.width;
   let area = calculateArea(length, width);
