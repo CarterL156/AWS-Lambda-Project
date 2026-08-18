@@ -37,7 +37,7 @@ Open functions page in Lambda console and create a new function.
 
 Deploy function and then create a test event to invoke the function
 
-The test event should contain sample integer values
+The test event should contain 2 sample integer values
 
 Run the test event and view output
 
